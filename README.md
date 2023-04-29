@@ -32,7 +32,5 @@
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
  -->
  
-<a href="https://komarev.com/ghpvc/?username=Ahmadfoadd&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Ahmadfoadd&style=for-the-badge">
-</a>
+
 
