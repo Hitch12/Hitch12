@@ -1,25 +1,26 @@
 
-<h3 align="center">
-  Welcome to Ahmed Hassan's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h1 align="center">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    Welcome to Ahmed Hassan's profile!
+    <img src="https://komarev.com/ghpvc/?username=Hitch12&style=flat-square&label=VIEWS">
+</h1>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20web%20developer;I%20always%20improving%20my%20skills&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20web%20developer;I%20always%20improving%20my%20skills&font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=435"></a>
 </p> 
 
 
-<h3>🚀 About Me</h3> 
+<h2>🚀 About Me</h2> 
 <p> I'm a passionate Front End Developer using Angular as a framework,<br/>
   I have a good knowledge about the Front End field.<br/>
   Seek a progressive organization that provides an opportunity to capitalize on my technical skills.
 </p>
 
-### Connect with Me :
 
+<h2><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=20> Connect Me</h2> 
 <a href="https://www.linkedin.com/in/ahmed-hassan-3543931b3/" target="_blank"><img src="https://img.shields.io/badge/-Linked in-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ahmedmohamedhasan34@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=01119475921)
 
 
