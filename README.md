@@ -24,14 +24,21 @@
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=01119475921)
 
 
-<!-- ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
- -->
+
+<h2><img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width=45> Tech Stack</h2>
+
+![HTML](https://img.shields.io/badge/-HTML-013?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-013?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-013?style=for-the-badge&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-013?style=for-the-badge&logo=bootstrap&logoColor=0969da)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-013?style=for-the-badge&logo=sass)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-013?style=for-the-badge&logo=redux)&nbsp;
+![Angular.js](https://img.shields.io/badge/-Angular-013?style=for-the-badge&logo=angular)&nbsp;
+![Git](https://img.shields.io/badge/-Git-013?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-013?style=for-the-badge&logo=github)&nbsp;
+![SQL](https://custom-icon-badges.demolab.com/badge/SQL-013.svg?style=for-the-badge&logo=database&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-013.svg?style=for-the-badge&logo=notion&logoColor=white)
+ 
  
 
 
