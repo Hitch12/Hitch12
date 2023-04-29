@@ -18,8 +18,9 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/ahmed-hassan-3543931b3/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Hassan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ahmedmohamedhasan34@gmail.com"><img  src="https://img.shields.io/badge/Ahmed Hassan-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ahmed-hassan-3543931b3/" target="_blank"><img src="https://img.shields.io/badge/-Linked in-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ahmedmohamedhasan34@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=01119475921)
 
 
 <!-- ### 🛠 &nbsp;Tech Stack
@@ -29,8 +30,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-
-
  -->
-
+ 
+<a href="https://komarev.com/ghpvc/?username=Ahmadfoadd&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Ahmadfoadd&style=for-the-badge">
+</a>
 
